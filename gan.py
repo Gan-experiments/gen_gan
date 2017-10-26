@@ -1,3 +1,4 @@
+"carpedm20 DCGAN code was very helpful while writing this code"
 import tensorflow as tf
 import numpy as np
 import random
